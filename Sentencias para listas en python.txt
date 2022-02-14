@@ -1,0 +1,9 @@
+.append(value) = agregar un nuevo valor a la lista
+.pop() = borra el último elemento en la lista
+.index() = se utiliza para buscar un elemento en la lista
+min() = nos da el valor mínimo en la lista, cuando se tienen numeros
+max() = nos da el valor máximo en la lista, cuando se tienen numeros
+slice se maneja como [:]  donde [valor final:valor de inicio] cuando se hace de forma descendente 
+y cuando se trabaja de manera ascendente [valor de inicio:valor final] 
+.sort() = ordena las listas por orden alfabético y una lista de números en orden númerico
+.sort(reverse=True) = ordena la lista pero de forma inversa
